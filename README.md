@@ -1,2 +1,2 @@
-# Machine-Learning---Octave
-This repository shows all Machine learning algorithm using mathematical models to solve everyday problems.
+# Machine-Learning---Octave/Matlab
+This repository shows all Machine learning algorithms using mathematical models to solve everyday problems.
